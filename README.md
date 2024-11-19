@@ -150,7 +150,7 @@ Feel free to reach out with any questions, feedback, or collaboration ideas. I a
 ---
 
 ### 👨‍💻 Ketan N  
-📧 Email: [Astronix@protonmail.com](mailto:Astronix@protonmail.com)  
+📧 [Astronix@protonmail.com](mailto:Astronix@protonmail.com)  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/ketannirpagare/)  
 🌍 [GitHub Profile](https://github.com/Astrolaboratory/Portfolio)
 
