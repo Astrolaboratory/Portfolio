@@ -1,4 +1,4 @@
-# Heart Disease Prediction 🚑💖
+# CardioPredict: Heart Disease Prediction System 🚑💖
 
 ## Overview
 
